@@ -1,0 +1,1 @@
+A next-generation RFID security system built on Arduino UNO. Rather than treating electromagnetic fields as simple data pipes, this project leverages physical EM properties as a primary security layer using adaptive field shaping, time-varying parameters, and ML-driven anomaly detection.
